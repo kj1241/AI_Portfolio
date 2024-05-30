@@ -1,27 +1,67 @@
-# GameAI Class Protfolio
-> 홍익대학교 게임AI 수업에서 만들었던 일반 과제와 기말 과제 프로젝트입니다.
+# GameAI Class Portfolio
 
-## 🧾정보
-- 대학교 일반 과제
-  - 인공지능 프로그래밍을 시작하기 위해 pyhon을 연습합니다.
-  - 게임 인공지능 계획 언어인 PDDL을 사용하여 스토리를 제작합니다.
+> 홍익대학교 게임AI 수업에서 진행한 프로젝트 모음입니다.
 
-- 대학교 중간 과제
-  - 게임 인공지능 수업 중간 과제는 AI 관련하여 자율적으로 주제를 학습이 목표입니다.  
-    따라서 제가 선택한 주제는 인공지능에서 자주쓰이는 FSM 패턴이였습니다.
+---
 
-- 대학교 기말 과제
-  - 게임 인공지능 수업 기말 과제는 인공지능 관련된 것을 아무거나 제작하는 것입니다.
-    제가 선택한 주제는 게임 몬스터 군집 모방 Ai 제작이였습니다.
+## 프로젝트 목록
 
+### FSM(C++ 콘솔)
+<img src="https://raw.githubusercontent.com/kj1241/AI_Portfolio/main/GameAI/img/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%20%EA%B7%B8%EB%9E%A8.webp"> 
 
-## 💻사용된 기술
-![Static Badge](https://img.shields.io/badge/-unity%202019.4.22f1-%23ffffff?style=flat&logo=unity) 
-![Static Badge](https://img.shields.io/badge/-c%23-%23512BD4?style=flat&logo=c%23) 
-![Static Badge](https://img.shields.io/badge/-c%2B%2B11-%2300599C?style=flat&logo=c%2B%2B) 
-![Static Badge](https://img.shields.io/badge/-pyhon%203.7-%233776AB?style=flat&logo=python) 
+- **설명:** C++로 구현한 유한 상태 기계(FSM) 패턴을 이용한 NPC 인공지능.
+- **기능:** 
+  - 휴식, 이동, 공격, 도망 상태 전환
+  - 플레이어와의 상호작용
+- **성과:** 2018년 1학기 중간 과제
+- **코드:** [GitHub 링크](GameAI-MiddleExam/FSM)
+- **자세한 사항:**  
+  [https://kj1241.github.io/ai/GameAI_MiddleExam](https://kj1241.github.io/ai/GameAI_MiddleExam)  
+  [https://kj1241.github.io/unity/Similar_Clustering_log](https://kj1241.github.io/unity/Similar_Clustering_log)
+   
+<br>
+   
+### Similar Clusters (유니티)
 
-## 📚자세한 사항
-게임AI-일반 과제: [https://kj1241.github.io/ai/PDDL](https://kj1241.github.io/ai/PDDL)  
-게임AI-중간 과제: [https://kj1241.github.io/ai/AI_Practice](https://kj1241.github.io/ai/AI_Practice)  
-게임AI-기말 과제: [https://kj1241.github.io/ai/Similar_Clusters](https://kj1241.github.io/ai/Similar_Clusters)
+<img src="https://raw.githubusercontent.com/kj1241/AI_Portfolio/main/GameAI/img/%EC%98%81%EC%97%AD.webp"> 
+
+- **설명:** 유니티에서 구현한 척력과 인력을 활용한 유사 군집 알고리즘.
+- **기능:** 
+  - 소형 몬스터들이 대형 몬스터를 찾아가는 시뮬레이션
+  - 소속 변경과 자동 이동
+- **성과:** 2018년 1학기 기말 과제
+- **코드:** [Similar_Clustering](GameAI-FinalExam/Similar_Clustering)
+- **자세한 사항:** [https://kj1241.github.io/ai/GameAI_MiddleExam](https://kj1241.github.io/ai/GameAI_MiddleExam)
+   
+<br>
+   
+### PDDL 스토리텔링
+
+<img src="https://raw.githubusercontent.com/kj1241/AI_Portfolio/main/GameAI/img/%EB%B9%A8%EA%B0%84%EB%A7%9D%ED%86%A0.webp"> 
+
+- **설명:** PDDL을 활용한 빨간 망토, 동방박사의 선물, 토끼와 거북이 스토리텔링.
+- **성과:** 2018년 1학기 일반 과제
+- **코드:** [GitHub 링크](GameAI-ProtFoilo/Planning(PDDL))
+- **자세한 사항:** [https://kj1241.github.io/ai/GameAI_MiddleExam](https://kj1241.github.io/ai/GameAI)
+   
+<br>
+   
+### pyhon 기초 연습
+
+<img src="https://raw.githubusercontent.com/kj1241/AI_Portfolio/main/GameAI/img/Pyhon.webp"> 
+
+- **설명:** pyhon 언어를 활용하기 위한 기초 연습
+- **성과:** 2018년 1학기 일반 과제
+- **코드:** [GitHub 링크](GameAI-ProtFoilo/Python)
+- **자세한 사항:** [https://kj1241.github.io/ai/GameAI_MiddleExam](https://kj1241.github.io/ai/GameAI)
+  
+---
+   
+<br>
+   
+## 사용된 기술
+
+![Unity](https://img.shields.io/badge/-Unity%202019.4.22f1-%23ffffff?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-%23512BD4?style=flat&logo=c%23)
+![C++](https://img.shields.io/badge/-C%2B%2B11-%2300599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python%203.7-%233776AB?style=flat&logo=python)
