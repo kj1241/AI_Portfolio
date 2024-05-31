@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/kj1241/AI_Portfolio/main/Pong_UnityMLAgent/img/Pong%20Game.webp"> 
 
-- **설명:** 설명: 게임 잼을 위해 시작한 토이 프로젝트로, 유니티 ML-Agent와 구글 코렙을 사용 하여 퐁 게임 AI를 강화학습시켰습니다.
+- **설명:** 게임 잼을 위해 시작한 토이 프로젝트로, 유니티 ML-Agent와 구글 코렙을 사용 하여 퐁 게임 AI를 강화학습시켰습니다.
 - **기능:** DQN 알고리즘을 사용해 상대 AI를 학습시키고, 공을 막는 동작을 자동으로 수행합니다.
 - **성과:** 프로젝트를 통해 유니티 ML-Agent와 강화학습의 기본 개념을 익혔습니다. 하지만 AI가 너무 강해서 제작하기 바라던 결과가 제대로 나오지 않았습니다.
 - **풀 소스 코드:** [Google drive 링크](https://drive.google.com/drive/folders/1foiP7GoKW6VOxxCUtXfjPJudtz7S4K8z?usp=sharing)
