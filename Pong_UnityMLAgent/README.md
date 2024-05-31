@@ -1,4 +1,4 @@
-# Pong UnityMLAgent Portfolio
+# Unity-MLAgent test Game (w. Google Colab) Portfolio
 
 > 유니티 ML Agent를 이용한 DQN 강화학습으로 AI 제작하는 프로젝트입니다.
 
