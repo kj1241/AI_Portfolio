@@ -4,9 +4,12 @@
 
 ### Key Points Covered:
 - **Hello Lua:** Basics of executing Lua scripts in C++.
+  ![Hello Lua](img/Hellow%20Lua.webp)
 - **Lua File Separation:** Managing Lua scripts separately and calling them from C++.
+  ![Lua File Separation](img/Lua%20File%20Separation.webp)
 - **Cpp Using Lua:** Advanced examples of interacting with Lua from C++, including variable access, function calls, and table management.
-
+  ![Cpp Using Lua](img/Cpp%20Using%20Lua.webp)
+  
 For more details information, visit: [https://kj1241.github.io/ai/GameAI_LuaPractice](https://kj1241.github.io/ai/GameAI_LuaPractice)
   
 
@@ -14,6 +17,7 @@ For more details information, visit: [https://kj1241.github.io/ai/GameAI_LuaPrac
 
 ### Key Points Covered:
 - **GuessTheNumbers**
+  ![RockScissorsPaper](img/Guess%20The%20Numbers.webp)
 
 ### Description:
 This playlist features a series of toy projects that I developed during my university studies to practice and enhance my Lua Script skills. 
@@ -27,6 +31,7 @@ For detailed information on each project, visit: [https://kj1241.github.io/ai/Ga
 
 ### Key Points Covered:
 - **RockScissorsPaper**
+  ![RockScissorsPaper](img/Rock%20Scissors%20Paper.webp)
 
 ### Description:
 
@@ -41,6 +46,7 @@ For more details information, visit: [https://kj1241.github.io/ai/GameAI_LuaRock
 
 ### Key Points Covered:
 - **FinalProject**
+  ![Final Project](img/Final%20Project.webp)
 
 ### Description:
 
