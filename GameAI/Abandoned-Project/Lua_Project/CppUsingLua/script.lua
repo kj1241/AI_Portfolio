@@ -147,5 +147,23 @@ dog:Speak()
 print ("내 강아지의 이름은: "..dog:GetName())
 
 
+-- 코루틴 사용 예제
+print(" ")
+print("코루틴 사용 예제입니다.")
+
+local function worker()
+      for i = 1, 5 do
+          print("Worker: " .. i)
+          coroutine.yield()
+      end
+  end
+
+  local co = coroutine.create(worker)
+  for i = 1, 5 do
+      print("Main: " .. i)
+      coroutine.resume(co)
+  end
+
+
 
 print("\n[lua]: \"script.lua\" 스크립트 실행 완료")
